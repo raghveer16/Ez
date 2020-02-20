@@ -1,0 +1,7 @@
+HDR	COTT 16248	X	004010	810	P
+
+TRUE VALUE FTP INVOICE SPREADSHEET
+                                                      INVOICE HEADER LEVEL																								ITEM LEVEL
+Invoice Number	Invoice Date MM/DD/YYYY format	PO Number	PO Date MM/DD/YYYY format	Ship Date MM/DD/YYYY format	SCAC	Carrier Name	FREIGHT CHARGES	Other Allowance/ Charge Type	Other A/C Amount	Other A/C Description	Invoice Total	Ship to RDC #	Drop Ship Store #	Ship to Name	Ship to Address1	Ship to City	Ship to State	Ship to Zip	Discount Percent	Discount Due Date MM/DD/YYYY format	Net Due Date MM/DD/YYYY format	Auth #	Promo #	Vendor Item Number	True Value Item Number	UPC Number	GTIN Number	Quantity	UOM	Unit Price	Item Description
+101	07/07/2014	101	07/07/2014	07/07/2014				F670	-5.00	DISCOUNT	29.93		012345	Steven Harris	333 Test Street	Clinton Twp	MI	48035			07/17/2014			111				2	EA	9.99	Test Item
+																								123				1	EA	14.95	Test 2
